@@ -6,6 +6,7 @@ import { DignitariesSection } from "./components/DignitariesSection";
 import { EventsSection } from "./components/EventsSection";
 import { SportsGallery } from "./components/SportsGallery";
 import { Footer } from "./components/Footer";
+import { PlayerCarousel } from "./components/PlayerCarousel";
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
         <DignitariesSection />
         <EventsSection />
         <SportsGallery />
+        <PlayerCarousel />
       </main>
       <Footer />
     </div>

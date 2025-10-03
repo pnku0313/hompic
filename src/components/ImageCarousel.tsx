@@ -10,40 +10,40 @@ const carouselImages = [
   },
   {
     id: 2,
-    src: "/images/banner2.webp",
+    src: "/images/banner-2.webp",
   },
   {
     id: 3,
     src: "/images/banner3.webp",
   },
-  {
-    id: 4,
-    src: "/images/banner4.webp",
-  },
-  {
-    id: 6,
-    src: "/images/banner5.webp",
-  },
-    {
-    id: 7,
-    src: "/images/banner6.webp",
-  },
-  {
-    id: 8,
-    src: "/images/banner7.webp",
-  },
-  {
-    id: 9,
-    src: "/images/banner8.webp",
-  },
-  {
-    id: 10,
-    src: "/images/banner9.webp",
-  },
-  {
-    id: 11,
-    src: "/images/banner10.webp",
-  }
+  // {
+  //   id: 4,
+  //   src: "/images/banner4.webp",
+  // },
+  // {
+  //   id: 6,
+  //   src: "/images/banner5.webp",
+  // },
+  //   {
+  //   id: 7,
+  //   src: "/images/banner6.webp",
+  // },
+  // {
+  //   id: 8,
+  //   src: "/images/banner7.webp",
+  // },
+  // {
+  //   id: 9,
+  //   src: "/images/banner8.webp",
+  // },
+  // {
+  //   id: 10,
+  //   src: "/images/banner9.webp",
+  // },
+  // {
+  //   id: 11,
+  //   src: "/images/banner10.webp",
+  // }
 ];
 
 export function ImageCarousel() {
