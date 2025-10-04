@@ -4,18 +4,18 @@ import { Button } from "./ui/button";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const carouselImages = [
-  {
-    id: 1,
-    src: "/images/banner.webp",
-  },
+  // {
+  //   id: 1,
+  //   src: "/images/banner.webp",
+  // },
   {
     id: 2,
     src: "/images/banner-2.webp",
   },
-  {
-    id: 3,
-    src: "/images/banner3.webp",
-  },
+  // {
+  //   id: 3,
+  //   src: "/images/banner3.webp",
+  // },
   // {
   //   id: 4,
   //   src: "/images/banner4.webp",

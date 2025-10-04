@@ -65,7 +65,7 @@ export function DignitariesSection() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">
-              Support Pillars of HOA
+              Guiding force behind HOA
             </h2>
             <p className="text-lg text-gray-600 max-w-xl mx-auto">
               Meet the distinguished leaders who guide Haryana&apos;s Olympic journey
@@ -133,13 +133,13 @@ export function DignitariesSection() {
 
           {/* Constant Text */}
           <div className="mt-8 max-w-2xl mx-auto text-center transition-opacity duration-500 ease-in-out">
-            <h3 className="text-xl font-semibold text-gray-900">
+            {/* <h3 className="text-xl font-semibold text-gray-900">
               {dignitaries[currentIndex].name}
             </h3>
             <p className="text-sm text-gray-600">
               {dignitaries[currentIndex].position},{" "}
               {dignitaries[currentIndex].organization}
-            </p>
+            </p> */}
             <p className="mt-4 text-gray-500">
               {dignitaries[currentIndex].bio}
             </p>
